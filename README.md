@@ -11,6 +11,12 @@
   <img align="center" alt="Joadir-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
+<div> 
+
 ##
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+  ![Snake animation](https://github.com/TMKaT/TMKaT/blob/output/github-contribution-grid-snake.svg)
+  
+
+  
+</div>
