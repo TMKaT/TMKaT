@@ -1,9 +1,9 @@
 ### Hi there 👋 - Me chamo Joadir Junior
 
-<div align="center">
+<div>
   <a href="https://github.com/TMKaT">
-  <img height="180em" width="440" src="https://github-readme-stats.vercel.app/api?username=TMKaT&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="530" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMKaT&layout=compact&langs_count=7&theme=calm"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TMKaT&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMKaT&layout=compact&langs_count=7&theme=calm"/>
 </div>
   
 <div align="left" style="display: inline_block"><br>
