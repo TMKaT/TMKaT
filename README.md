@@ -2,10 +2,10 @@
 
 <div align="center">
   <a href="https://github.com/TMKaT">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TMKaT&show_icons=true&theme=calm" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TMKaT&theme=calm&show_icons=true" />
    </a>
   <a href="https://github.com/TMKaT">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMKaT&layout=compact&theme=calm" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMKaT&theme=calm&layout=compact" />
   </a>
 </div>
   
